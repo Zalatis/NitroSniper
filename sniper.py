@@ -7,6 +7,7 @@ from random import randint
 from discord.ext import commands
 import re, requests
 from colorama import Fore, init
+system("title "+ "Discord Sniper")
 
 init()
 data = {}
